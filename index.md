@@ -5,7 +5,7 @@ C'est un jeu F2W , free-to-win qui est écrit en python et qui est en actif dév
 
 La V0.0.2 est sortie !
 
-Vous pouvez lRix56 Bloga télécharger maintenant !
+Vous pouvez la télécharger maintenant !
 
 Les liens:
 
